@@ -1,0 +1,7 @@
+input{margin: 10px;}
+#submit_button{margin: 20px;}
+#sort_button{margin: 20px;display: none;}
+#display_name{
+    font-size: 25px;
+    color: red;
+}
